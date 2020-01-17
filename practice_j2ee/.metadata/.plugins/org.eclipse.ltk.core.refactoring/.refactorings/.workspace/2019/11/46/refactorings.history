@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;spring_day1_core&apos; to &apos;spring_day1_core_ci&apos;&#x0D;&#x0A;- Original element: &apos;spring_day1_core&apos;&#x0D;&#x0A;- Renamed element: &apos;spring_day1_core&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;spring_day1_core&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=spring_day1_core" name="spring_day1_core_ci" references="true" stamp="1573720363456" version="1.0"/>
+</session>

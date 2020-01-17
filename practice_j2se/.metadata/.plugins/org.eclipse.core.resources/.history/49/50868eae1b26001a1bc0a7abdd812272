@@ -1,0 +1,8 @@
+package collectors;
+
+public class TestMinMaxBy {
+
+	public static void main(String[] args) {
+		
+	}
+}

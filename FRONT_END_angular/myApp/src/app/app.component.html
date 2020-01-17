@@ -1,0 +1,25 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+ {{message}}
+    
+  </h1>
+  first page
+ <!--
+   <app-test1></app-test1>
+ <app-test></app-test>-->
+ <app-login (childEvent)="message=$event" [parentData]="names"></app-login>
+ <!--or-->
+ <br>
+<!--<div class="app-test">
+
+{{message}}
+
+</div>-->
+
+</div>
+<a routerLink="app-new-cmp">New Component</a>
+<app-employee-list></app-employee-list>
+<app-employee-detail></app-employee-detail>
+<!--<app-new-cmp></app-new-cmp>-->
+<router-outlet></router-outlet>

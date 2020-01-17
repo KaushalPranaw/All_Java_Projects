@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="ques" class="com.yash.list.Question">
+	
+		<constructor-arg value="1" type="int"/>
+		<constructor-arg value="pranaw"/>
+		<constructor-arg>
+			<list>
+				<ref bean="ans1"/>
+				<ref bean="ans2"/>
+			</list>
+			
+		</constructor-arg>
+		
+		<constructor-arg>
+			<map>
+				<entry key="1"	value="a"></entry>
+				<entry key="2"	value="b"></entry>
+				<entry key="3"	value="c"></entry>
+			</map>
+		</constructor-arg>
+	</bean>
+	
+	<bean id="ans1" class="com.yash.list.Answer">
+		<constructor-arg value="1" type="int"/>
+		<constructor-arg value="a" />
+		<constructor-arg value="b"/>
+	</bean>
+	 <bean id="ans2" class="com.yash.list.Answer">
+		<constructor-arg value="2" type="int"/>
+		<constructor-arg value="c" />
+		<constructor-arg value="d"/>
+	</bean>
+	
+	<bean id="student" class="com.yash.list.Student">
+		<property name="name" value="pranaw"/>
+		<property name="question" ref="ques"></property>
+	</bean>
+	
+
+</beans>

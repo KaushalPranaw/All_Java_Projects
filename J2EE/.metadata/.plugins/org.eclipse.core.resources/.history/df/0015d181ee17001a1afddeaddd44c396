@@ -1,0 +1,12 @@
+package com.yash.config;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.security.config.annotation.web.WebSecurityConfigurer;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+
+@EnableWebSecurity
+@ComponentScan("com.yash")
+public class WebSecurityConfig implements WebSecurityConfigurer<SecurityBuilder<Filter>>
+{
+
+}

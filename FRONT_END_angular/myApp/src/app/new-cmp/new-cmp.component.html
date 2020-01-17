@@ -1,0 +1,17 @@
+<div> Months :
+    <select (change)="changeMonth($event)">
+        <option *ngFor="let i of month">{{i|uppercase}}</option>
+    </select>
+</div>
+<div>
+    <span *ngIf="isAvailable; then condition1 else condition2">Condition is valid</span>
+    <ng-template #condition1> Condition is valid</ng-template>
+    <ng-template #condition2> Condition is invalid</ng-template>
+</div>
+<button (click)="fun($event)">
+    Click me
+</button>
+<br>
+
+<a routerLink="app-view">View</a>
+<!--<router-outlet></router-outlet>-->

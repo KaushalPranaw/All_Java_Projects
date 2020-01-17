@@ -1,0 +1,7 @@
+<p>view-vendor-list works!</p>
+<ul>
+  <li *ngFor="let vendor of vendors">
+   {{vendor.id}} {{vendor.name}} {{vendor.salary}} <button (click)="deleteVendor(vendor.id)">delete</button>
+   <button (click)="updateVendor(vendor)">update</button>
+  </li>
+</ul>

@@ -1,0 +1,12 @@
+package lock2;
+
+import lock.MyRunnable;
+
+public class TesterLock {
+
+	public static void main(String[] args) {
+		MyRunnable target=new MyRunnable();
+		Thread thread1=new Thread(target, "one");
+		
+	}
+}

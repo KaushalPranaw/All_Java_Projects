@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+F:\ALL JAVA PROJECTS\yashtraining_j2ee\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1410097283.index
+\day1_prodcuer\src

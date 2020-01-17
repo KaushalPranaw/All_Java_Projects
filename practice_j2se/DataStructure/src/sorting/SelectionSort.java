@@ -1,0 +1,31 @@
+package sorting;
+
+import java.util.Arrays;
+
+public class SelectionSort {
+
+	public static void main(String[] args) {
+		int a[] = new int[] { 1, 3, 31, 2, 5, 3, 29 };
+		System.out.println(Arrays.toString(a));
+		selectionSort(a);
+		System.out.println(Arrays.toString(a));
+	}
+
+	private static void selectionSort(int[] a) {
+		int min_key;
+		int t;
+		for (int i = 0; i < a.length; i++) {
+			min_key = i;
+
+			for (int j = i + 1; j < a.length; j++) {
+				if (a[min_key] > a[j])
+					min_key = j;
+
+			}
+			t = a[i];
+			a[i] = a[min_key];
+			a[min_key] = t;
+		}
+
+	}
+}

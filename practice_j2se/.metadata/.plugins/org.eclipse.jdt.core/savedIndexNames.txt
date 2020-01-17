@@ -1,0 +1,8 @@
+INDEX VERSION 1.130+F:\ALL JAVA PROJECTS\practice_j2se\.metadata\.plugins\org.eclipse.jdt.core
+3713621434.index
+1755401707.index
+1991180421.index
+4228511768.index
+1772165109.index
+1145110887.index
+964697275.index

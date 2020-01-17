@@ -1,0 +1,10 @@
+<p>update-vendor works!</p>
+<form method="POST">
+    <input type="text" [(ngModel)]="vendor.id" name="id" >
+    <br>
+    <input type="text" [(ngModel)]="vendor.name" name="name" >
+    <br>
+    <input type="text" [(ngModel)]="vendor.salary" name="salary">
+    <br>
+    <button (click)=update()>update</button>
+</form>

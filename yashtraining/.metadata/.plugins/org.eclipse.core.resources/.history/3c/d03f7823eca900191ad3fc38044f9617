@@ -1,0 +1,19 @@
+package test;
+
+
+public class Tester {
+
+	private int id;
+	private static int id1;
+	
+	
+	public Tester() {
+		// TODO Auto-generated constructor stub
+		id++;
+		id1++;
+	}
+	public static void main(String[] args) {
+		Tester t=new Tester();
+		System.out.println(Tester.id1);
+	}
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+F:\ALL JAVA PROJECTS\yashtraining_j2ee\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+599870259.index
+2446522683.index
+3329565850.index
+2284180039.index
+1085201121.index
+3540345859.index
+3816934853.index
+3063152926.index

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="F:\ALL JAVA Learning\j2ee\day3_j2ee\j2ee-day3-data\day3_bookshop"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day3_j2ee\j2ee-day3-data\day3"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day2_j2ee\j2ee-day2-data\day2"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day1_j2ee\j2ee-day1-data\day1_web"/>
+	</list>
+</section>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="day13_spring_rest_clnt"/>
+<aop-project name="yash_day11_mapping_again"/>
+<aop-project name="yash_day11_mapping"/>
+</aop-reference-model>

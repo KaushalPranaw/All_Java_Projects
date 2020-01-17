@@ -1,0 +1,90 @@
+
+Select Subject :
+<select (click)='getTestListBySubject($event.target.value)'>
+  <option value="0">SELECT</option>
+  <option *ngFor='let subject of subjects' value={{subject.subjectId}}>{{subject.subjectName}}</option>
+</select>
+
+<div *ngIf="!flag">
+  Select TestPaper:
+  <select (click)='getQuestionsByTid($event.target.value)'>
+    <option value="0">SELECT</option>
+  <option *ngFor='let test of tests' value={{test.testId}}>{{test.testName}}</option>
+</select>
+</div>
+<div *ngIf="qFlag">
+  <table border="1">
+    <tr>
+      <th>Question ID</th>
+      <th>Question Name</th>
+
+      <th>Option 1</th>
+      <th>Option 2</th>
+      <th>Option 3</th>
+      <th>Option 4</th>
+      <th>Right Answer</th>
+    </tr>
+    <tr *ngFor='let question of questions;let i=index'>
+      <td>{{i+1}}</td>
+      <td><input [disabled]="enableQuestId!==question.questionId" type="text" [(ngModel)]="question.questionName" name="question.questionName"></td>
+      <td><input [disabled]="enableQuestId!==question.questionId" type="text" [(ngModel)]="question.option_1" name="question.option_1"></td>
+      <td><input [disabled]="enableQuestId!==question.questionId" type="text" [(ngModel)]="question.option_2" name="question.option_2"></td>
+      <td><input [disabled]="enableQuestId!==question.questionId" type="text" [(ngModel)]="question.option_3" name="question.option_3"></td>
+      <td><input [disabled]="enableQuestId!==question.questionId" type="text" [(ngModel)]="question.option_4" name="question.option_4"></td>
+      <td><input [disabled]="enableQuestId!==question.questionId" type="text" [(ngModel)]="question.correct_answer" name="question.correct_answer"></td>
+      <!--<td><input type="text" [(ngModel)]="question.questionNanme" name="questionName" value="question.questionName"> </td>-->
+      <td>
+        <button (click)=" deleteQuestion(question.questionId)" class="button">delete</button>
+      </td>
+      <td *ngIf="enableQuestId===question.questionId">
+        <button (click)="cancel()" class="button">cancel</button>
+      </td>
+      <td *ngIf="enableQuestId===question.questionId">
+        <button (click)="updateQuestion(question,question.questionId)" class="button">update</button>
+      </td>
+      <td *ngIf="enableQuestId!==question.questionId">
+
+        <button (click)="editQuestion(question)" class="button">edit</button>
+      </td>
+    </tr>
+  </table>
+  <button (click)='getQuestionForm(testId)'>Add Question</button>
+</div>
+
+<div [hidden]='formQuesFlag'>
+  <!--<app-add-question></app-add-question>-->
+  <p>Form</p>
+
+  <form method="post">
+    <div class="form-group">
+      <tr>
+        <td>Question</td>
+        <td><input type="text" [(ngModel)]='question.questionName' name="questionName"> </td>
+
+      </tr>
+
+      <tr>
+        <td>Option 1:</td>
+        <td><input type="text" [(ngModel)]="question.option_1" name="option_1"> </td>
+      </tr>
+      <tr>
+        <td>Option 2:</td>
+        <td><input type="text" [(ngModel)]="question.option_2" name="option_2"> </td>
+      </tr>
+      <tr>
+        <td>Option 3:</td>
+        <td><input type="text" [(ngModel)]="question.option_3" name="option_3"> </td>
+      </tr>
+      <tr>
+        <td>Option 4:</td>
+        <td><input type="text" [(ngModel)]="question.option_4" name="option_4"> </td>
+      </tr>
+      <tr>
+        <td>Correct Answer:</td>
+        <td><input type="text" [(ngModel)]="question.correct_answer" name="correct_answer"> </td>
+      </tr>
+
+      <button type="submit" (click)='addQuestion(question)'>Submit</button>
+    </div>
+  </form>
+</div>

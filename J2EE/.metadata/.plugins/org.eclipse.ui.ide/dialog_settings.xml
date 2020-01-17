@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="F:\ALL JAVA PROJECTS\springbootLearn\SpringBootHelloWorld-data_security"/>
+		<item value="F:\ALL JAVA PROJECTS\springhibmapping"/>
+		<item value="F:\ALL JAVA PROJECTS\J2EE\onetomany"/>
+		<item value="F:\yash_day10_spring_hibernate_mapping"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day13_j2ee\j2ee-day13-data\day13_help\maven\maven eclipse projects\test_spring_hib_maven"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day10_j2ee\j2ee-day10-data\day10_hibernate"/>
+		<item value="F:\ALL JAVA PROJECTS\jdbc1"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day10_j2ee\j2ee-day10-data\setter_based_di"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day10_j2ee\j2ee-day10-data\factory_method_based_di"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day10_j2ee\j2ee-day10-data\constr_based_di"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day10_j2ee\j2ee-day10-data\combo_di"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day10_j2ee\j2ee-day10-data\autowire_byname"/>
+		<item value="F:\ALL JAVA Learning\j2ee\day10_j2ee\j2ee-day10-data\day10_why_spring"/>
+		<item value="F:\Java\j2ee\day14_j2ee\j2ee-day14-data\day14_help\AOP\test_aop_simple"/>
+		<item value="F:\Java\j2ee\day13_j2ee\j2ee-day13-data\day13_spring_rest_clnt"/>
+		<item value="F:\Java\j2ee\day13_j2ee\j2ee-day13-data\day13_rest_server"/>
+		<item value="F:\Java\j2ee\day13_j2ee\j2ee-day13-data\day13_help\java mail\spring_demo"/>
+		<item value="F:\Java\j2ee\day11_j2ee\j2ee-day11-data\day11_help\json-help\test_json"/>
+		<item value="F:\Java\j2ee\day11_j2ee\j2ee-day11-data\eclipse projects\day11_spring_mvc"/>
+		<item value="F:\Java\j2ee\day11_j2ee\j2ee-day11-data\eclipse projects\day11_spring_annotations"/>
+		<item value="F:\Java\j2ee\day10_j2ee\j2ee-day10-data\setter_based_di"/>
+		<item value="F:\Java\j2ee\day10_j2ee\j2ee-day10-data\factory_method_based_di"/>
+		<item value="F:\Java\j2ee\day10_j2ee\j2ee-day10-data\day10_why_spring"/>
+		<item value="F:\Java\j2ee\day10_j2ee\j2ee-day10-data\constr_based_di"/>
+		<item value="F:\Java\j2ee\day10_j2ee\j2ee-day10-data\combo_di"/>
+		<item value="F:\Java\j2ee\day10_j2ee\j2ee-day10-data\autowire_byname"/>
+		<item value="F:\Java\j2ee\day10_j2ee\j2ee-day10-data\day10_hibernate"/>
+		<item value="F:\Java\j2ee\day10_j2ee\j2ee-day10-data\day10_help\mvc_hibernate"/>
+		<item value="C:\Users\pranaw.kaushal\J2EE\PracticeSpringMVCHib"/>
+		<item value="F:\Java\j2ee\day1_j2ee\j2ee-day1-data\day19_jdbc"/>
+		<item value="F:\Java\j2ee\day9_j2ee\j2ee-day9-data\day9_hibernate"/>
+		<item value="F:\Java\j2ee\day8_j2ee\j2ee-day8-data\day8_jsp_bookshop_hib"/>
+		<item value="F:\Java\j2ee\day8_j2ee\j2ee-day8-data\day8_hibernate"/>
+		<item value="F:\Java\j2ee\day7_j2ee\j2ee-day7-data\day7_hibernate_bookshop"/>
+		<item value="F:\Java\j2ee\day7_j2ee\j2ee-day7-data\day7_hibernate"/>
+		<item value="F:\Java\j2ee\day6_j2ee\j2ee-day6-data\day6_hibernate"/>
+		<item value="F:\Java\JSPCrud"/>
+		<item value="F:\Java\j2ee\day6_j2ee\j2ee-day6-data\day6_jsp_bookshop_jdbc"/>
+		<item value="F:\Java\j2ee\day5_j2ee\j2ee-day5-data\day5_jsp"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day6_j2ee\j2ee-day6-data\day6_jsp_bookshop_jdbc"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day6_j2ee\j2ee-day6-data\day6_hibernate"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day5_j2ee\j2ee-day5-data\day5_jsp"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day4_j2ee\j2ee-day4-data\day4_bookshop2"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day3_j2ee\j2ee-day3-data\day3_bookshop"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day3_j2ee\j2ee-day3-data\day3"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day1_j2ee\j2ee-day1-data\day1_web"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day13_j2ee\j2ee-day13-data\day13_spring_web_maven"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day13_j2ee\j2ee-day13-data\day13_spring_mvc_hibernate"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java\j2ee\day6_j2ee\j2ee-day6-data\day6_hibernate"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java\j2ee\day1_j2ee\j2ee-day1-data\day1_web"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="402" key="DIALOG_HEIGHT"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="96" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\pranaw.kaushal\Downloads\Java\j2ee\day13_j2ee\j2ee-day13-data\day13_spring_mvc_hibernate"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

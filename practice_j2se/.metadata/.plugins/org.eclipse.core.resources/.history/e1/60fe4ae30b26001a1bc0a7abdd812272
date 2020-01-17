@@ -1,0 +1,8 @@
+package collectors;
+
+public class TestAveragingDouble {
+
+	public static void main(String[] args) {
+		
+	}
+}

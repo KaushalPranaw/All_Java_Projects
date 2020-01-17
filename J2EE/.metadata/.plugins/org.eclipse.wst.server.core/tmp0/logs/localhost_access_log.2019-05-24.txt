@@ -1,0 +1,10 @@
+127.0.0.1 - - [24/May/2019:10:37:38 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:37:38 +0530] "GET /ServletSessionLogin/ HTTP/1.1" 200 297
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:37:39 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:37:42 +0530] "GET /ServletSessionLogin/login.html HTTP/1.1" 200 187
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:37:49 +0530] "POST /ServletSessionLogin/Login HTTP/1.1" 200 153
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:37:52 +0530] "GET /ServletSessionLogin/Profile HTTP/1.1" 200 134
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:37:54 +0530] "GET /ServletSessionLogin/Logout HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:37:59 +0530] "POST /ServletSessionLogin/Login HTTP/1.1" 200 324
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:38:05 +0530] "GET /ServletSessionLogin/Profile HTTP/1.1" 500 108
+0:0:0:0:0:0:0:1 - - [24/May/2019:10:38:07 +0530] "GET /ServletSessionLogin/Logout HTTP/1.1" 200 146

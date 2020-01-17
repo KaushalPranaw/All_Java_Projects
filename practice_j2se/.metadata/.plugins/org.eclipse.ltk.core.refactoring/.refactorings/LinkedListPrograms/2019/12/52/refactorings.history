@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 packages to &apos;DataStructure/src&apos;&#x0D;&#x0A;- Original project: &apos;LinkedListPrograms&apos;&#x0D;&#x0A;- Destination element: &apos;DataStructure/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     LinkedListPrograms/src/doublycircularll&#x0D;&#x0A;     LinkedListPrograms/src/singlyll&#x0D;&#x0A;     LinkedListPrograms/src/reversell&#x0D;&#x0A;     LinkedListPrograms/src/circularll&#x0D;&#x0A;     LinkedListPrograms/src/doublyll" description="Copy packages" destination="=DataStructure/src" element1="/src&lt;doublycircularll" element2="/src&lt;singlyll" element3="/src&lt;reversell" element4="/src&lt;circularll" element5="/src&lt;doublyll" flags="589830" fragments="5" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1577352659164" version="1.0"/>
+</session>

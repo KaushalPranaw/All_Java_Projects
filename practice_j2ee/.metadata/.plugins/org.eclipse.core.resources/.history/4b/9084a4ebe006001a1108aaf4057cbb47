@@ -1,0 +1,64 @@
+package com.yash.core;
+
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+public class Employee {
+
+	private int id;
+	private String name;
+	private double salary;
+
+	private Address addr3;
+
+	private Address addr2;
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public double getSalary() {
+		return salary;
+	}
+
+	public void setSalary(double salary) {
+		this.salary = salary;
+	}
+
+	
+	public Address getAddr3() {
+		return addr3;
+	}
+
+	public void setAddr3(Address addr3) {
+		this.addr3 = addr3;
+	}
+
+	public Address getAddr2() {
+		return addr2;
+	}
+
+	public void setAddr2(Address addr2) {
+		this.addr2 = addr2;
+	}
+
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + ", salary=" + salary + ", addr3=" + addr3 + ", addr2=" + addr2
+				+ "]";
+	}
+
+	
+}

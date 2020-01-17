@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;spring-config.xml&apos; to &apos;SpringCore/resources&apos;&#x0D;&#x0A;- Original project: &apos;autowire_byname&apos;&#x0D;&#x0A;- Destination element: &apos;SpringCore/resources&apos;&#x0D;&#x0A;- Original element: &apos;spring-config.xml&apos;" description="Copy file" destination="=SpringCore/resources" element1="resources/spring-config.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1560774667764" units="0" version="1.0"/>
+</session>

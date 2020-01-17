@@ -1,0 +1,19 @@
+package collectors;
+
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+public class TestAveragingDouble {
+
+	public static void main(String[] args) {
+		 // creating a string stream 
+        Stream<String> s = Stream.of("3", "4", "5"); 
+  
+        // using Collectors averagingDouble(ToDoubleFunction mapper) 
+        // method to find arithmetic mean of inputs given 
+        double ans = s 
+                         .collect(Collectors 
+                                      .averagingDouble( 
+                                          num -> Double.parseDouble(num))); 
+	}
+}

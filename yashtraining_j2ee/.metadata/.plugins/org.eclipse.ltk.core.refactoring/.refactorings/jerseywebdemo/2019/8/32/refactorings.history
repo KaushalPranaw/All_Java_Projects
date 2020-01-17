@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;day1_prodcuer/src/com.exec&apos;&#x0D;&#x0A;- Original project: &apos;jerseywebdemo&apos;&#x0D;&#x0A;- Destination element: &apos;day1_prodcuer/src/com.exec&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.app.exception.UserNotFoundException.java&#x0D;&#x0A;     com.app.exception.UserNotFoundExceptionMapper.java&#x0D;&#x0A;     com.app.exception.ErrorProps.java" description="Copy compilation units" destination="=day1_prodcuer/src&lt;com.exec" element1="/src&lt;com.app.exception{UserNotFoundException.java" element2="/src&lt;com.app.exception{UserNotFoundExceptionMapper.java" element3="/src&lt;com.app.exception{ErrorProps.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1565156000320" units="3" version="1.0"/>
+</session>

@@ -1,0 +1,21 @@
+package lock2;
+
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+
+public class MyRunnable {
+
+	final Lock lock=new ReentrantLock();
+	final Condition condition=lock.newCondition();
+	void print()
+	{
+		for(int i=1;i<=10;i++)
+		{
+			if(i==5&&Thread.currentThread().getName().equals("one"))
+			{
+				
+			}
+		}
+	}
+}

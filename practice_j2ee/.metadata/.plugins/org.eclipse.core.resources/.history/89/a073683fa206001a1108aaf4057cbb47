@@ -1,0 +1,11 @@
+package com.yash.tester;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class TestCIUsingXML {
+
+	public static void main(String[] args) {
+		 ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationcontext.xml");
+	}
+}

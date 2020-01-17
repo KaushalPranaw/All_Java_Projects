@@ -1,0 +1,12 @@
+package test;
+
+
+public class Tester {
+
+	private int id;
+	private static int id;
+	
+	public static void main(String[] args) {
+		
+	}
+}

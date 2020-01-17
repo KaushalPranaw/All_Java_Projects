@@ -1,0 +1,28 @@
+package com.yash.config;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.core.env.Environment;
+import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
+
+@Configuration
+@EnableTransactionManagement
+@ComponentScan("com.yash")
+@PropertySource(value="classpath:application.properties")
+public class HibernateConfig {
+
+	@Autowired
+	private Environment environment;
+	
+	@Bean
+	public SessionFactory getSF()
+	{
+		LocalSessionFactoryBean sf=new LocalSessionFactoryBean();
+		sf.setHibernateProperties(environment.getRequiredProperty(""));
+	}
+}

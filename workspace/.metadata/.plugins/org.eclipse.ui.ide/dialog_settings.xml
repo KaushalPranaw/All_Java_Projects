@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java\j2ee\day1_j2ee\j2ee-day1-data\day19_jdbc"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java\j2se\day13\day13-data\day13"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java\j2se\day12\day12-data\day12"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java\j2se\day11\day11-data\day11"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java\j2se\day10_Assignment_Reference\day10_assgn"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java\j2se\day4\day4-data\day4"/>
+		<item value="C:\Users\pranaw.kaushal\Downloads\Java\Java-20190424T054628Z-001\Java\j2se\day4"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\Java\j2ee\day13_j2ee\j2ee-day13-data\day13_help\eclipse projects\rest_clnt"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.springsource.ide.eclipse.commons.quicksearch.ui.QuickSearchDialog.DIALOG_SETTINGS">
+		<item value="true" key="CASE_SENSITIVE"/>
+		<item value="" key="LAST_QUERY"/>
+		<list key="SASH_WEIGHTS">
+			<item value="833"/>
+			<item value="166"/>
+		</list>
+		<list key="COLUMN_WIDTHS">
+			<item value="40"/>
+			<item value="400"/>
+			<item value="118"/>
+		</list>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="391" key="DIALOG_X_ORIGIN"/>
+			<item value="39" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

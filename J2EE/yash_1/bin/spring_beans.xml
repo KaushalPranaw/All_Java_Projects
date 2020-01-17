@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="hello" class="com.yash.pojos.Hello" scope="" >
+		<property name="msg1" value="Hello Msg1" /> 
+		<!-- <property name="msg2" value="Hello Msg2" />  -->
+	</bean>
+	
+	<bean id="helloIndia" class="com.yash.pojos.HelloIndia" parent="hello">
+		<property name="msg3" value="hello India"/>
+	</bean>
+
+</beans>

@@ -1,0 +1,32 @@
+package com.yash.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.security.config.annotation.SecurityBuilder;
+import org.springframework.security.config.annotation.web.WebSecurityConfigurer;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.core.userdetails.UserDetailsService;
+
+@SuppressWarnings("rawtypes")
+@EnableWebSecurity
+@ComponentScan("com.yash")
+public class WebSecurityConfig implements WebSecurityConfigurer
+{
+
+	public void configure(SecurityBuilder arg0) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void init(SecurityBuilder arg0) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Bean
+	public UserDetailsService userDetailsService() throws Exception
+	{
+		
+	}
+
+}

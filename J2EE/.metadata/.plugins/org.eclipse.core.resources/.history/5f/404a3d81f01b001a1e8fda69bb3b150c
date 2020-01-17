@@ -1,0 +1,8 @@
+package com.yash.dao;
+
+import com.yash.pojos.Student;
+
+public interface StudentDao {
+
+	 Student getAllStudent();
+}

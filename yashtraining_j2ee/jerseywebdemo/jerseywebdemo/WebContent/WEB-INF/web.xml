@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>jerseywebdemo</display-name>
+  <welcome-file-list>
+  <!-- 
+  <welcome-file>FormData.html</welcome-file>  -->
+       <welcome-file>Index.html</welcome-file>
+  </welcome-file-list>
+  
+  <servlet> 
+  
+      <servlet-name>Jersey RESTful Application</servlet-name> 
+      <servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class> 
+      <init-param> 
+         <param-name>jersey.config.server.provider.packages</param-name> 
+         <param-value>com</param-value> <!-- Auto detect for Sub Package pack1;pack2 for diff package -->
+      </init-param>
+      <init-param> <!-- This Param for JSON data -->
+          <param-name>com.sun.jersey.api.json.POJOMappingFeature</param-name>
+          <param-value>true</param-value>
+      </init-param>
+            
+      
+   </servlet> 
+   
+   <servlet-mapping> 
+      <servlet-name>Jersey RESTful Application</servlet-name> 
+      <url-pattern>/rest/*</url-pattern> 
+   </servlet-mapping>   
+  
+</web-app>

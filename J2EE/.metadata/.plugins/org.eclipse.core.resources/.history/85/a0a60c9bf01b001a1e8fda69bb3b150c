@@ -1,0 +1,40 @@
+package com.yash.dao;
+
+import org.springframework.stereotype.Repository;
+
+import com.yash.pojos.Student;
+
+@Repository
+public class StudentDaoImpl implements StudentDao {
+
+	@Override
+	public Student getAllStudent() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteStudent(Student s) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateStudent(Student s) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void createStudent(Student s) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Student getById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

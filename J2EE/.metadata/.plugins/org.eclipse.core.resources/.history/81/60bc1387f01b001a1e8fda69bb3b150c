@@ -1,0 +1,12 @@
+package com.yash.dao;
+
+import com.yash.pojos.Student;
+
+public interface StudentDao {
+
+	 Student getAllStudent();
+	 void deleteStudent(Student s);
+	 void updateStudent(Student s);
+	 void createStudent(Student s);
+	 
+}

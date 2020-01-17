@@ -1,0 +1,9 @@
+com\yash\configuration\HibernateConfiguration.class
+com\yash\controller\VendorController.class
+com\yash\configuration\AppConfiguration.class
+com\yash\configuration\AppInitializer.class
+com\yash\dao\VendorDao.class
+com\yash\dao\VendorDaoImpl.class
+com\yash\service\VendorService.class
+com\yash\pojos\Vendor.class
+com\yash\service\VendorServiceImpl.class

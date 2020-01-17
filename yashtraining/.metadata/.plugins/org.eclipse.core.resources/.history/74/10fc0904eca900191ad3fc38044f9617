@@ -1,0 +1,20 @@
+package test;
+
+
+public class Tester {
+
+	private int id;
+	private static int id1;
+	
+	void a()
+	{
+		
+	}
+	static void b()
+	{
+		id1=5;
+	}
+	public static void main(String[] args) {
+		
+	}
+}

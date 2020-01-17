@@ -1,0 +1,15 @@
+package lock2;
+
+public class MyRunnable {
+
+	void print()
+	{
+		for(int i=1;i<=10;i++)
+		{
+			if(i==5&&Thread.currentThread().getName().equals("one"))
+			{
+				
+			}
+		}
+	}
+}

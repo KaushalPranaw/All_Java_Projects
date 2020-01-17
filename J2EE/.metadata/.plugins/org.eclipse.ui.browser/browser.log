@@ -1,0 +1,138 @@
+
+May 10, 2019 16:25:37.42 NEW SESSION
+May 10, 2019 16:25:37.42 [3412:12528:0510/162537.421:ERROR:browser_process_sub_thread.cc(217)] Waited 113 ms for network service
+
+May 22, 2019 11:38:08.45 NEW SESSION
+May 22, 2019 11:38:08.45 [7752:7912:0522/113808.437:ERROR:component_installer.cc(125)] Move failed.: Access is denied. (0x5)
+
+May 23, 2019 11:59:48.99 NEW SESSION
+May 23, 2019 11:59:48.99 [8784:4084:0523/115948.981:ERROR:browser_process_sub_thread.cc(217)] Waited 108 ms for network service
+May 23, 2019 12:00:19.87 [9068:5204:0523/120019.870:ERROR:browser_process_sub_thread.cc(217)] Waited 52 ms for network service
+
+May 23, 2019 12:32:27.54 NEW SESSION
+May 23, 2019 12:32:27.54 [9720:6992:0523/123227.536:ERROR:browser_process_sub_thread.cc(217)] Waited 158 ms for network service
+
+May 27, 2019 14:58:10.58 NEW SESSION
+May 27, 2019 14:58:10.58 [11524:7984:0527/145810.542:ERROR:component_installer.cc(125)] Move failed.: Access is denied. (0x5)
+May 27, 2019 14:59:59.60 [11524:9940:0527/145959.609:ERROR:browser_process_sub_thread.cc(217)] Waited 59 ms for network service
+May 27, 2019 15:06:43.22 [11260:8736:0527/150643.211:ERROR:browser_process_sub_thread.cc(217)] Waited 153 ms for network service
+May 27, 2019 15:10:35.59 [11316:2300:0527/151035.599:ERROR:browser_process_sub_thread.cc(217)] Waited 108 ms for network service
+
+May 29, 2019 18:05:45.75 NEW SESSION
+May 29, 2019 18:05:45.75 [10412:12736:0529/180545.679:ERROR:browser_process_sub_thread.cc(217)] Waited 37 ms for network service
+
+Jun 04, 2019 11:09:22.11 NEW SESSION
+Jun 04, 2019 11:09:22.11 [13632:12144:0604/110922.095:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-EVjR8L4xuo0c7UNzAtLmKQoojKIjdHqYIqdanwmukFQ=' 'sha256-ps+f+kvXv/saiMZBvZdqrnWV6Gcxo4dQ9UAG6SXPM6M=' 'sha256-YUYyUdaHPr4vPwR1MbbgywsO6nfhVmXMpy6ILGW3rKk=' 'sha256-ydzrIpu7RPpN+/W1u5M3gE6zl+u6KRMtbQEzdDt/Uao=' 'sha256-KNY16OU2yK5dZbn5VtmVD+8Nko2v7x2ZPfUGq+DvZEs=' 'sha256-lj3Ybq0OcgGBTQmk7PbTtC0eH6NJaDsZHXnY9olO7Mk=' 'sha256-MGque3oGiKtPFTwwK1zrkCclFZlQ9TxwhKFzqmn+mYc='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Jun 04, 2019 11:09:22.12 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Jun 04, 2019 11:10:34.07 [13632:18036:0604/111034.072:ERROR:browser_process_sub_thread.cc(217)] Waited 158 ms for network service
+Jun 04, 2019 11:47:10.07 [19396:5684:0604/114710.071:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-EVjR8L4xuo0c7UNzAtLmKQoojKIjdHqYIqdanwmukFQ=' 'sha256-ps+f+kvXv/saiMZBvZdqrnWV6Gcxo4dQ9UAG6SXPM6M=' 'sha256-YUYyUdaHPr4vPwR1MbbgywsO6nfhVmXMpy6ILGW3rKk=' 'sha256-ydzrIpu7RPpN+/W1u5M3gE6zl+u6KRMtbQEzdDt/Uao=' 'sha256-KNY16OU2yK5dZbn5VtmVD+8Nko2v7x2ZPfUGq+DvZEs=' 'sha256-lj3Ybq0OcgGBTQmk7PbTtC0eH6NJaDsZHXnY9olO7Mk=' 'sha256-MGque3oGiKtPFTwwK1zrkCclFZlQ9TxwhKFzqmn+mYc='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Jun 04, 2019 11:47:10.08 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Jun 04, 2019 12:03:11.05 [19396:5684:0604/120311.048:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-EVjR8L4xuo0c7UNzAtLmKQoojKIjdHqYIqdanwmukFQ=' 'sha256-ps+f+kvXv/saiMZBvZdqrnWV6Gcxo4dQ9UAG6SXPM6M=' 'sha256-YUYyUdaHPr4vPwR1MbbgywsO6nfhVmXMpy6ILGW3rKk=' 'sha256-ydzrIpu7RPpN+/W1u5M3gE6zl+u6KRMtbQEzdDt/Uao=' 'sha256-KNY16OU2yK5dZbn5VtmVD+8Nko2v7x2ZPfUGq+DvZEs=' 'sha256-lj3Ybq0OcgGBTQmk7PbTtC0eH6NJaDsZHXnY9olO7Mk=' 'sha256-MGque3oGiKtPFTwwK1zrkCclFZlQ9TxwhKFzqmn+mYc='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Jun 04, 2019 12:03:11.06 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Jun 04, 2019 18:35:59.98 [19396:14612:0604/183559.986:ERROR:browser_process_sub_thread.cc(217)] Waited 194 ms for network service
+
+Jun 05, 2019 16:09:16.33 NEW SESSION
+Jun 05, 2019 16:09:16.33 [17332:9672:0605/160916.288:ERROR:component_installer.cc(125)] Move failed.: Access is denied. (0x5)
+Jun 05, 2019 16:26:35.98 [17332:9068:0605/162635.970:ERROR:browser_process_sub_thread.cc(217)] Waited 30 ms for network service
+
+Jun 06, 2019 11:15:56.08 NEW SESSION
+Jun 06, 2019 11:15:56.08 [18688:18336:0606/111556.020:ERROR:browser_process_sub_thread.cc(217)] Waited 109 ms for network service
+Jun 06, 2019 12:20:57.81 [2804:17588:0606/122057.800:ERROR:browser_process_sub_thread.cc(217)] Waited 138 ms for network service
+Jun 06, 2019 12:24:08.23 [14328:13004:0606/122408.220:ERROR:browser_process_sub_thread.cc(217)] Waited 116 ms for network service
+Jun 06, 2019 12:32:22.18 [7856:14400:0606/123222.184:ERROR:browser_process_sub_thread.cc(217)] Waited 119 ms for network service
+Jun 06, 2019 12:41:33.73 [12072:13112:0606/124133.738:ERROR:browser_process_sub_thread.cc(217)] Waited 26 ms for network service
+Jun 06, 2019 19:23:25.66 [18376:10580:0606/192325.662:ERROR:browser_process_sub_thread.cc(217)] Waited 164 ms for network service
+Jun 06, 2019 19:23:58.04 [12480:10120:0606/192358.040:ERROR:browser_process_sub_thread.cc(217)] Waited 133 ms for network service
+Jun 06, 2019 19:30:16.95 [2684:14444:0606/193016.950:ERROR:browser_process_sub_thread.cc(217)] Waited 60 ms for network service
+Jun 06, 2019 19:32:31.19 [17908:12764:0606/193231.199:ERROR:browser_process_sub_thread.cc(217)] Waited 138 ms for network service
+Jun 06, 2019 19:33:16.14 [13268:18420:0606/193316.133:ERROR:browser_process_sub_thread.cc(217)] Waited 60 ms for network service
+Jun 06, 2019 19:38:39.06 [4640:6868:0606/193839.062:ERROR:browser_process_sub_thread.cc(217)] Waited 122 ms for network service
+
+Jun 07, 2019 11:10:54.31 NEW SESSION
+Jun 07, 2019 11:10:54.31 [8116:19116:0607/111054.310:ERROR:browser_process_sub_thread.cc(217)] Waited 158 ms for network service
+Jun 07, 2019 11:40:43.84 [19400:10272:0607/114043.848:ERROR:browser_process_sub_thread.cc(217)] Waited 138 ms for network service
+Jun 07, 2019 12:17:03.78 [4552:18756:0607/121703.787:ERROR:browser_process_sub_thread.cc(217)] Waited 128 ms for network service
+Jun 07, 2019 12:20:53.97 [17076:7348:0607/122053.970:ERROR:browser_process_sub_thread.cc(217)] Waited 118 ms for network service
+Jun 07, 2019 12:39:35.53 [6528:6480:0607/123935.533:ERROR:browser_process_sub_thread.cc(217)] Waited 70 ms for network service
+
+Jun 11, 2019 12:51:58.02 NEW SESSION
+Jun 11, 2019 12:51:58.02 [3856:1900:0611/125158.022:ERROR:browser_process_sub_thread.cc(217)] Waited 67 ms for network service
+
+Jun 12, 2019 11:28:01.02 NEW SESSION
+Jun 12, 2019 11:28:01.02 [9720:2460:0612/112800.989:ERROR:browser_process_sub_thread.cc(217)] Waited 33 ms for network service
+Jun 12, 2019 12:17:41.08 [12704:7712:0612/121741.068:ERROR:browser_process_sub_thread.cc(217)] Waited 126 ms for network service
+Jun 12, 2019 12:18:29.92 [2656:10460:0612/121829.907:ERROR:browser_process_sub_thread.cc(217)] Waited 231 ms for network service
+Jun 12, 2019 12:19:59.71 [6584:7392:0612/121959.701:ERROR:browser_process_sub_thread.cc(217)] Waited 187 ms for network service
+Jun 12, 2019 12:25:23.22 [5980:9572:0612/122523.212:ERROR:browser_process_sub_thread.cc(217)] Waited 103 ms for network service
+Jun 12, 2019 12:26:49.03 [12988:3620:0612/122649.033:ERROR:browser_process_sub_thread.cc(217)] Waited 114 ms for network service
+Jun 12, 2019 12:27:25.98 [10444:10756:0612/122725.983:ERROR:browser_process_sub_thread.cc(217)] Waited 133 ms for network service
+Jun 12, 2019 12:28:14.47 [7360:13664:0612/122814.475:ERROR:browser_process_sub_thread.cc(217)] Waited 148 ms for network service
+Jun 12, 2019 12:32:57.27 [11516:3620:0612/123257.279:ERROR:browser_process_sub_thread.cc(217)] Waited 12 ms for network service
+Jun 12, 2019 12:46:42.00 [2864:7952:0612/124641.989:ERROR:browser_process_sub_thread.cc(217)] Waited 67 ms for network service
+Jun 12, 2019 14:35:47.58 [5572:11992:0612/143547.584:ERROR:browser_process_sub_thread.cc(217)] Waited 139 ms for network service
+Jun 12, 2019 14:47:57.57 [7652:1028:0612/144757.571:ERROR:browser_process_sub_thread.cc(217)] Waited 150 ms for network service
+Jun 12, 2019 15:14:22.62 [1684:13804:0612/151422.623:ERROR:browser_process_sub_thread.cc(217)] Waited 117 ms for network service
+Jun 12, 2019 15:14:50.23 [7880:3092:0612/151450.232:ERROR:browser_process_sub_thread.cc(217)] Waited 159 ms for network service
+Jun 12, 2019 15:24:55.80 [11280:8968:0612/152455.807:ERROR:browser_process_sub_thread.cc(217)] Waited 137 ms for network service
+Jun 13, 2019 11:19:25.22 [7972:8632:0613/111924.538:ERROR:browser_process_sub_thread.cc(217)] Waited 164 ms for network service
+Jun 13, 2019 12:51:26.09 [10064:3152:0613/125126.092:ERROR:browser_process_sub_thread.cc(217)] Waited 50 ms for network service
+Jun 13, 2019 14:41:18.84 [10472:10364:0613/144118.841:ERROR:browser_process_sub_thread.cc(217)] Waited 130 ms for network service
+
+Jun 18, 2019 11:46:34.77 NEW SESSION
+Jun 18, 2019 11:46:34.77 [9048:8172:0618/114634.751:ERROR:component_installer.cc(125)] Move failed.: Access is denied. (0x5)
+Jun 18, 2019 12:00:34.27 [9048:15008:0618/120034.261:ERROR:CONSOLE(3)] "Not allowed to load local resource: chrome://resources/css/text_defaults.css", source: chrome-extension://ahjaciijnoiaklcomgnblndopackapon/scope_approval_dialog.html (3)
+Jun 18, 2019 12:00:34.86 [9048:15848:0618/120034.859:ERROR:shader_disk_cache.cc(258)] Failed to create shader cache entry: -2
+Jun 18, 2019 12:00:47.04 [9048:15008:0618/120047.048:ERROR:CONSOLE(3)] "Not allowed to load local resource: chrome://resources/css/text_defaults.css", source: chrome-extension://ahjaciijnoiaklcomgnblndopackapon/scope_approval_dialog.html (3)
+Jun 18, 2019 12:00:51.18 [9048:15008:0618/120051.182:ERROR:CONSOLE(3)] "Not allowed to load local resource: chrome://resources/css/text_defaults.css", source: chrome-extension://ahjaciijnoiaklcomgnblndopackapon/scope_approval_dialog.html (3)
+Jun 18, 2019 12:00:54.35 [9048:15008:0618/120054.358:ERROR:CONSOLE(3)] "Not allowed to load local resource: chrome://resources/css/text_defaults.css", source: chrome-extension://ahjaciijnoiaklcomgnblndopackapon/scope_approval_dialog.html (3)
+Jun 18, 2019 12:01:59.79 [9048:15848:0618/120159.792:ERROR:browser_process_sub_thread.cc(217)] Waited 155 ms for network service
+Jun 18, 2019 14:45:43.92 [15124:10224:0618/144543.908:ERROR:browser_process_sub_thread.cc(217)] Waited 111 ms for network service
+
+Aug 19, 2019 18:37:50.71 NEW SESSION
+Aug 19, 2019 18:37:50.71 [15316:7712:0819/183750.685:ERROR:browser_process_sub_thread.cc(203)] Waited 111 ms for network service
+Aug 19, 2019 18:44:56.59 [14404:10620:0819/184456.576:ERROR:browser_process_sub_thread.cc(203)] Waited 166 ms for network service
+
+Aug 20, 2019 19:08:40.66 NEW SESSION
+Aug 20, 2019 19:08:40.67 [4924:10720:0820/190840.648:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-r1drsgoDPQZulnXwabgollhGK3T7e1MR/3dT/kdnsHk=' 'sha256-7Ev0+xudUJf+TNOaD7bOGEsbqNx10CoivlMga0NvMM8=' 'sha256-JJcFw5vJcK0RjK1BZMPVDPOXUXIxZOVOdS1UlR8I0oc=' 'sha256-455z/8g1DIg5Sdxz0lA1l+6+NbtUDQL5F6wsSWq4awg=' 'sha256-98oC9MOukj1vqRurBgSvb3ckqChyJKNnthWgATTmugg=' 'sha256-QtaEGY7z+CISGaCsQAzXgfpAMMmdekW9iw+F6VckWbs=' 'sha256-dUNlCQ+OZgX/JxIRyNYL1zW0zK8/6tBNFWD2bN0gwIs='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Aug 20, 2019 19:08:40.67 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Aug 20, 2019 19:08:51.40 [4924:10720:0820/190851.406:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-r1drsgoDPQZulnXwabgollhGK3T7e1MR/3dT/kdnsHk=' 'sha256-7Ev0+xudUJf+TNOaD7bOGEsbqNx10CoivlMga0NvMM8=' 'sha256-JJcFw5vJcK0RjK1BZMPVDPOXUXIxZOVOdS1UlR8I0oc=' 'sha256-455z/8g1DIg5Sdxz0lA1l+6+NbtUDQL5F6wsSWq4awg=' 'sha256-98oC9MOukj1vqRurBgSvb3ckqChyJKNnthWgATTmugg=' 'sha256-QtaEGY7z+CISGaCsQAzXgfpAMMmdekW9iw+F6VckWbs=' 'sha256-dUNlCQ+OZgX/JxIRyNYL1zW0zK8/6tBNFWD2bN0gwIs='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Aug 20, 2019 19:08:51.41 ", source: chrome-search://local-ntp/local-ntp.html (1)
+
+Aug 21, 2019 18:13:59.73 NEW SESSION
+Aug 21, 2019 18:13:59.73 [8448:12748:0821/181359.660:ERROR:browser_process_sub_thread.cc(203)] Waited 121 ms for network service
+
+Aug 22, 2019 18:14:30.35 NEW SESSION
+Aug 22, 2019 18:14:30.35 [8760:3436:0822/181430.308:ERROR:browser_process_sub_thread.cc(203)] Waited 105 ms for network service
+
+Aug 28, 2019 18:09:55.13 NEW SESSION
+Aug 28, 2019 18:09:55.13 [7812:17164:0828/180954.966:ERROR:CONSOLE(742)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.google.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (742)
+Aug 28, 2019 19:06:23.01 [7812:15552:0828/190622.982:ERROR:browser_process_sub_thread.cc(203)] Waited 50 ms for network service
+
+Aug 30, 2019 12:38:14.97 NEW SESSION
+Aug 30, 2019 12:38:14.97 [12140:14388:0830/123814.979:ERROR:browser_process_sub_thread.cc(203)] Waited 107 ms for network service
+Aug 30, 2019 15:11:06.67 [9252:9072:0830/151106.672:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Aug 30, 2019 15:59:38.00 [10464:8744:0830/155937.989:ERROR:browser_process_sub_thread.cc(203)] Waited 202 ms for network service
+Aug 30, 2019 16:51:54.65 [16424:15196:0830/165154.655:ERROR:browser_process_sub_thread.cc(203)] Waited 231 ms for network service
+Aug 30, 2019 17:16:18.90 [14780:7068:0830/171618.886:ERROR:browser_process_sub_thread.cc(203)] Waited 190 ms for network service
+
+Sep 03, 2019 12:26:39.54 NEW SESSION
+Sep 03, 2019 12:26:39.54 [13280:15132:0903/122639.487:ERROR:dns_config_service_win.cc(765)] DNS config watch failed.
+Sep 03, 2019 12:47:54.13 [13280:13864:0903/124754.134:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Sep 03, 2019 14:49:21.23 [3820:14696:0903/144921.222:ERROR:browser_process_sub_thread.cc(203)] Waited 132 ms for network service
+
+Sep 03, 2019 18:37:58.98 NEW SESSION
+Sep 03, 2019 18:37:58.99 [4664:12200:0903/183758.981:ERROR:browser_process_sub_thread.cc(203)] Waited 99 ms for network service
+
+Sep 04, 2019 12:02:48.33 NEW SESSION
+Sep 04, 2019 12:02:48.34 [6296:3292:0904/120248.331:ERROR:browser_process_sub_thread.cc(203)] Waited 188 ms for network service
+Sep 04, 2019 17:23:05.43 [15648:11356:0904/172305.420:ERROR:browser_process_sub_thread.cc(203)] Waited 143 ms for network service
+
+Sep 05, 2019 17:11:03.08 NEW SESSION
+Sep 05, 2019 17:11:03.08 [7228:11004:0905/171102.831:ERROR:browser_process_sub_thread.cc(203)] Waited 142 ms for network service
+Sep 05, 2019 17:58:43.36 [10764:3148:0905/175843.362:ERROR:browser_process_sub_thread.cc(203)] Waited 54 ms for network service
+Sep 05, 2019 18:00:14.04 [12172:6556:0905/180014.043:ERROR:browser_process_sub_thread.cc(203)] Waited 230 ms for network service
+Sep 05, 2019 18:56:14.22 [8304:11020:0905/185614.186:ERROR:browser_process_sub_thread.cc(203)] Waited 128 ms for network service
+
+Sep 12, 2019 16:11:47.15 NEW SESSION
+Sep 12, 2019 16:11:47.15 [7912:6356:0912/161147.134:ERROR:browser_process_sub_thread.cc(203)] Waited 124 ms for network service
+Sep 12, 2019 17:08:53.16 [6232:3572:0912/170853.167:ERROR:browser_process_sub_thread.cc(203)] Waited 27 ms for network service

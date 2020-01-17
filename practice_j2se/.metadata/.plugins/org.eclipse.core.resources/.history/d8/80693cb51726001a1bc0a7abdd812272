@@ -1,0 +1,21 @@
+package collectors;
+
+import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+public class TestCollectingThen {
+
+	public static void main(String[] args) {
+		// Create an Immutable List 
+        List<String> lt 
+            = Stream 
+                  .of("GEEKS", "For", "GEEKS") 
+                  .collect(Collectors 
+                               .collectingAndThen( 
+                                   Collectors.toList(), 
+                                   Collections::<String> unmodifiableList)); 
+        System.out.println(lt); 
+	}
+}

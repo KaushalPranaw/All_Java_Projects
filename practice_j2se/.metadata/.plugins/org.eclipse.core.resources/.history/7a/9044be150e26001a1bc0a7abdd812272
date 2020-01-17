@@ -1,0 +1,15 @@
+package collectors;
+
+import java.util.Set;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+public class TestMap {
+
+	public static void main(String[] args) {
+		Stream<String[]> s=Stream.of(new String[][] {{"abc","bcd"},
+													{"cde","def"},
+													{"efg","fgh"}});
+		
+	}
+}

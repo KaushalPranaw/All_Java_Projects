@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:TestCustom,org.eclipse.launchbar.core.descriptorType.default\:TestClient (1),org.eclipse.launchbar.core.descriptorType.default\:TestClient (2),org.eclipse.launchbar.core.descriptorType.default\:Tomcat v8.0 Server at localhost,org.eclipse.launchbar.core.descriptorType.default\:TestClient,org.eclipse.launchbar.core.descriptorType.default\:TestException,org.eclipse.launchbar.core.descriptorType.default\:TestMulitResource
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:TestClient\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:TestClient\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

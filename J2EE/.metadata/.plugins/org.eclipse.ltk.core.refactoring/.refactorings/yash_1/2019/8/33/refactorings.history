@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;resources&apos; to &apos;yash_2_autowairing&apos;&#x0D;&#x0A;- Original project: &apos;yash_1&apos;&#x0D;&#x0A;- Destination element: &apos;yash_2_autowairing&apos;&#x0D;&#x0A;- Original element: &apos;yash_1/resources&apos;" description="Copy source folder" destination="=yash_2_autowairing" element1="/resources" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1565593004896" version="1.0"/>
+</session>

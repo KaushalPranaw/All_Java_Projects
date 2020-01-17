@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:EmpSet,org.eclipse.launchbar.core.descriptorType.default\:JavaTest,org.eclipse.launchbar.core.descriptorType.default\:TestConsole,org.eclipse.launchbar.core.descriptorType.default\:TesterJunit,org.eclipse.launchbar.core.descriptorType.default\:TestJunit2,org.eclipse.launchbar.core.descriptorType.default\:TestJunit3,org.eclipse.launchbar.core.descriptorType.default\:TestLogic1,org.eclipse.launchbar.core.descriptorType.default\:TestSuite,org.eclipse.launchbar.core.descriptorType.default\:TestDemo1,org.eclipse.launchbar.core.descriptorType.default\:Clock,org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.launchbar.core.descriptorType.default\:TestString,org.eclipse.launchbar.core.descriptorType.default\:TestStringLiteral,org.eclipse.launchbar.core.descriptorType.default\:TestExec,org.eclipse.launchbar.core.descriptorType.default\:TestEmp
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:AbstrcatDemo.1/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:AbstrcatDemo.1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

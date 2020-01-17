@@ -1,0 +1,8 @@
+package collectors;
+
+public class TestJoining {
+
+	public static void main(String[] args) {
+		
+	}
+}

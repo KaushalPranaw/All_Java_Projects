@@ -1,0 +1,10 @@
+package com.yash.tester;
+
+import org.springframework.context.ApplicationContext;
+
+public class TestCIUsingXML {
+
+	public static void main(String[] args) {
+		 
+	}
+}

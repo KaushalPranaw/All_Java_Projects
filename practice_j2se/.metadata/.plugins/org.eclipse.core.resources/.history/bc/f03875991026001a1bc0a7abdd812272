@@ -1,0 +1,8 @@
+package collectors;
+
+public class TestGroupingBy {
+
+	public static void main(String[] args) {
+		
+	}
+}

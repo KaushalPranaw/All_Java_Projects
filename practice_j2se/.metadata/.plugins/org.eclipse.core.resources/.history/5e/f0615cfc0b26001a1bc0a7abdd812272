@@ -1,0 +1,12 @@
+package collectors;
+
+import java.util.stream.Stream;
+
+public class TestAveragingDouble {
+
+	public static void main(String[] args) {
+		Stream s=Stream.of("1","14","12","12","166");
+		
+		
+	}
+}

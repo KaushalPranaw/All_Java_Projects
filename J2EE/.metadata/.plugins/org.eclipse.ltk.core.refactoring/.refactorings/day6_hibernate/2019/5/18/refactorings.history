@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;FirstHibernateCore/src&apos;&#x0D;&#x0A;- Original project: &apos;day6_hibernate&apos;&#x0D;&#x0A;- Destination element: &apos;FirstHibernateCore/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     day6_hibernate/src/utils&#x0D;&#x0A;     day6_hibernate/src/tester&#x0D;&#x0A;     day6_hibernate/src/dao&#x0D;&#x0A;     day6_hibernate/src/pojos" description="Copy packages" destination="=FirstHibernateCore/src" element1="/src&lt;utils" element2="/src&lt;tester" element3="/src&lt;dao" element4="/src&lt;pojos" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1556865120430" version="1.0"/>
+</session>
